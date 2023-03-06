@@ -1,0 +1,3 @@
+#Convert String To Dictionary
+
+we want to convert a string based on the repeated words and the number of repeated words.
